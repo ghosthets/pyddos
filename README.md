@@ -1,3 +1,7 @@
+# Pyddos
+
+pyddos is a Python-based DDoS (Distributed Denial of Service) tool created by ghosthets and the Citadel ♈ group. This tool is designed to launch powerful and potentially harmful DDoS attacks against chosen targets, overloading their servers with an overwhelming amount of traffic and ultimately causing them to crash or become unresponsive.
+
 # Usage
                                
         DDos python script | Script used for testing ddos | Ddos attack     
